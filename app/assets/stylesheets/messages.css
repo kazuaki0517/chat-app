@@ -19,7 +19,11 @@
 .header-name{
   font-weight: bold;
   font-size: 16px;
+}
+
+.header-name a{
   color: #FAFAFA;
+  text-decoration: none;
 }
 
 
