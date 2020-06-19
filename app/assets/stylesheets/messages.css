@@ -95,22 +95,22 @@
   margin: 10px 0;
 }
 
-.message__upper{
+.upper-message{
   display: flex;
 }
 
-.chat-user {
+.message-user{
   color: #434a54;
   font-size: 16px;
 }
 
-.chat-date {
+.message-date {
   color: #999;
   font-size: 12px;
   padding-left: 10px;
 }
 
-.message__lower {
+.lower-message{
   margin-top: 10px;
   color: #434a54;
   font-size: 14px;
